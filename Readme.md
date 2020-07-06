@@ -226,3 +226,13 @@ I didn't author any grammar myself. I taken all of them from the [Context free A
 - For some grammar positioning of shapes can be off.
 - Image generation is too slow and should be done over multiple frames.
 - Steganography only works for RGBA textures.
+
+## Resources
+
+I created this project using a bunch of articles, blog post and other github project. Here is a non exhaustive list of the resources I used:
+
+- [Context Free Art](https://www.contextfreeart.org/)
+- [Contextfree.js](https://github.com/alpicola/contextfree.js) and its [demo](http://alpico.la/contextfree.js/).
+- [Antlr Mega tutorial](https://tomassetti.me/antlr-mega-tutorial)
+- [Draw thousands of meshes](https://toqoz.fyi/thousands-of-meshes.html)
+- [One Million sprites](https://coffeebraingames.wordpress.com/2020/04/05/one-million-sprites-more-than-120fps-dots-not-required/)
